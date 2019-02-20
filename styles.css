@@ -1,0 +1,22 @@
+img {
+    width: 300px;
+}
+body {
+    text-align: center;
+    background-color: red;
+    font-family: 'Staatliches', cursive;
+    font-size: 25px;
+}
+h3 {
+    text-align: center;
+    color: #deff07;
+    font-family: 'VT323', monospace;
+    background-color: blue;
+}
+p {
+    color:white;
+    background-color: black;
+}
+li {
+    color: orange;
+}
